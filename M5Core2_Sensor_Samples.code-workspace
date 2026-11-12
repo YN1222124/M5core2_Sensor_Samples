@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "name": "Root (Docs & Config)",
+      "path": "."
+    },
+    {
+      "name": "01_ENV3 (Temp / Hum / Press)",
+      "path": "01_ENV3"
+    },
+    {
+      "name": "02_LED (NeoPixel)",
+      "path": "02_LED"
+    },
+    {
+      "name": "03_ToF (Distance)",
+      "path": "03_ToF"
+    },
+    {
+      "name": "04_LIGHT (Light Sensor)",
+      "path": "04_LIGHT"
+    },
+    {
+      "name": "05_IMU (Internal 6-Axis)",
+      "path": "05_IMU"
+    },
+    {
+      "name": "06_SERVO (PWM Servo)",
+      "path": "06_SERVO"
+    }
+  ],
+  "settings": {
+    "platformio-ide.autoOpenPlatformIOIniFile": false
+  }
+}

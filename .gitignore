@@ -1,0 +1,14 @@
+# PlatformIO ビルドキャッシュ・ダウンロード済みライブラリ（全サブディレクトリ共通）
+.pio/
+
+# VS Code 自動生成のIntelliSense・デバッグ用キャッシュ（全サブディレクトリ共通）
+.vscode/
+
+# ワークスペース設定ファイルはGitの追跡対象として保持する
+!*.code-workspace
+
+# OS・エディタ固有の不要ファイル
+.DS_Store
+Thumbs.db
+*~
+*.swp
